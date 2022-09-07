@@ -13,7 +13,8 @@
       sources: [
         {
           type: "application/x-mpegURL",
-          src: "https://live3.kxm.xmtv.cn/jtj1/playlist.m3u8",
+          // src: "https://live3.kxm.xmtv.cn/jtj1/playlist.m3u8", // 厦门大桥出岛方向
+          src: "http://www.dalitv.com.tw:4568/live/dali/index.m3u8", // 大立电视台
         },
       ],
     });
